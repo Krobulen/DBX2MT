@@ -40,10 +40,12 @@ The application automatically saves the game path in:
 ## Screenshots
 
 <p align="center">
-  <img src="Images/select-path.png" width="400"/>
-  <img src="Images/mod-toggle.png" width="400"/>
+  <img src="screenshots/select-path.png" width="350" alt="Game path selection"/>
+  <img src="screenshots/mod-toggle.png" width="350" alt="Mod enable / disable toggle"/>
 </p>
 
 <p align="center">
-  <b>Game path selection</b> &nbsp;&nbsp;&nbsp;&nbsp; <b>Mod enable / disable toggle</b>
+  <b>Game path selection</b>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Mod enable / disable toggle</b>
 </p>
