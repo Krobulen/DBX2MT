@@ -24,7 +24,7 @@
 If mods are enabled, the game must be launched from:
 
 
-...\DB Xenoverse 2\bin\DBXV2.exe
+`...\DB Xenoverse 2\bin\DBXV2.exe`
 
 
 If mods are disabled, the game can be launched normally via Steam or any standard method.
@@ -34,7 +34,7 @@ If mods are disabled, the game can be launched normally via Steam or any standar
 The application automatically saves the game path in:
 
 
-C:\Users\\"YourUser"\AppData\Roaming\DBX2ModToggle\Settings.ini
+`C:\Users\\"YourUser"\AppData\Roaming\DBX2ModToggle\Settings.ini`
 
 
 ## Screenshots
