@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=assets/DBX2.ico --add-data "DBX2MT.ui;." --add-data "assets;assets" DBX2MT.py

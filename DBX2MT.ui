@@ -45,7 +45,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>media/DBX2.ico</normaloff>media/DBX2.ico</iconset>
+    <normaloff>assets/DBX2.ico</normaloff>assets/DBX2.ico</iconset>
   </property>
   <widget class="QWidget" name="centralwidget">
    <layout class="QVBoxLayout" name="verticalLayout">
