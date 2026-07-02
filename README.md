@@ -40,8 +40,8 @@ C:\Users\\"YourUser"\AppData\Roaming\DBX2ModToggle\Settings.ini
 ## Screenshots
 
 <p align="center">
-  <img src="images/select-path.png" width="400"/>
-  <img src="images/mod-toggle.png" width="400"/>
+  <img src="Images/select-path.png" width="400"/>
+  <img src="Images/mod-toggle.png" width="400"/>
 </p>
 
 <p align="center">
